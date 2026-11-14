@@ -1,0 +1,6 @@
+{
+  "name": "Xadrez 3D Master",
+  "description": "Jogo de xadrez 3D imersivo com peças modeladas em Three.js, inteligência artificial desafiadora, animações suaves e efeitos visuais realistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
